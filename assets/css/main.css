@@ -3865,3 +3865,11 @@
 		}
 
 	}
+	
+	#email-link:hover {
+		cursor: pointer;
+	}
+	
+	.project-img {
+		height: 275px;
+	}

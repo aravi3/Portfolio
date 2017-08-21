@@ -3873,3 +3873,12 @@
 	.project-img {
 		height: 275px;
 	}
+	
+	.project-desc {
+		text-align: center;
+	}
+	
+	.project-links {
+		display: flex;
+		justify-content: space-around;
+	}

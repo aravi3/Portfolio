@@ -3865,20 +3865,25 @@
 		}
 
 	}
-	
+
 	#email-link:hover {
 		cursor: pointer;
 	}
-	
+
 	.project-img {
 		height: 275px;
 	}
-	
+
 	.project-desc {
 		text-align: center;
 	}
-	
+
 	.project-links {
 		display: flex;
 		justify-content: space-around;
+	}
+
+	.skill-level {
+		display: flex;
+		justify-content: space-between;
 	}
